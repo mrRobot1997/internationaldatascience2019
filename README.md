@@ -10,3 +10,6 @@ To able to run the code, clone this repo, create a folder inside the repo named 
 Put inside the input folder, the train and test data (can't attach to github 'cause the training data is so big)
 
 execute main.py file
+
+
+It's better to use our notebook instead of this file
